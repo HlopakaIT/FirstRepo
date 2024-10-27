@@ -1,0 +1,15 @@
+html {
+    font-family: "Georgia";
+}
+
+h1 {
+    border-color: red;
+    border: 10px;
+    background-color: rgb(255, 161, 227);
+}
+
+p {
+    border-color: red;
+    border: 10px;
+    background-color: rgb(184, 160, 179)
+}
