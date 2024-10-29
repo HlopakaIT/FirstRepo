@@ -26,13 +26,18 @@ a {
     border: 2px solid rgb(0, 0, 0);
     background-color: rgb(255, 161, 227);
     padding: 20px;
+    font-size: 38px;
 }
 
 .lyrics {
     text-align: center;
-    font-size: 22px;
+    font-size: 20px;
     border: 2px solid rgb(0, 0, 0);
     background-color: rgb(184, 160, 179);
     padding: 20px;
-    display: inline-block;
+    display: flexbox;
+}
+
+.media {
+    text-align: center;
 }
